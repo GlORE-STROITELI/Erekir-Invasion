@@ -1,0 +1,17 @@
+  localizedName: Onset+
+  description: WIP
+  difficulty: 1 
+  alwaysUnlocked: false
+  addStartingItems: true 
+  useAI: true    
+  showSectorLandInfo: true   
+  planet: erekir
+  name: onset+     
+  sector: 1  
+  research: {
+  parent: core-bastion
+    objectives: [
+        onset,
+        tank-fabricator,
+          ]
+  }

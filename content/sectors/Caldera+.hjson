@@ -1,0 +1,22 @@
+  localizedName: Caldera+
+  description: WIP
+  difficulty: 6
+  alwaysUnlocked: false
+  addStartingItems: true 
+  useAI: true    
+  showSectorLandInfo: true   
+  planet: erekir
+  name: Caldera+  
+  sector: 4  
+  research: {
+  parent: Ravine+
+    objectives: [
+    {
+      type: SectorComplete
+      preset: Ravinebeta1
+        }
+        afflict,
+          ]
+  }
+
+

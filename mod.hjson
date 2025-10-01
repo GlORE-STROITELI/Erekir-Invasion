@@ -1,0 +1,13 @@
+name: "Erekir Invasion"
+description: 
+''' 
+Rework erekir campaign (adds new) sectors with only Vanilla and world processors | 0.0.1
+In beta
+
+'''
+author: "Bebra | ARCYDE | TEKTA"
+minGameVersion: 152
+version: "0.0.1"
+displayName: "Erekir Invasion"
+subtitle: "Also try Mindustry Overhaul"
+hidden: true //спасибо человеку Lehanchic25

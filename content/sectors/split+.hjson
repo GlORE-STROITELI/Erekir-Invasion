@@ -1,0 +1,22 @@
+  localizedName: split+
+  description: WIP
+  difficulty: 1
+  alwaysUnlocked: false
+  addStartingItems: true 
+  useAI: true    
+  showSectorLandInfo: true   
+  planet: erekir
+  name: split+  
+  sector: 80  
+  research: {
+  parent: Aegis+
+    objectives: [
+    {
+      type: SectorComplete
+      preset: two2
+        }
+        payload-mass-driver,
+          ]
+  }
+
+

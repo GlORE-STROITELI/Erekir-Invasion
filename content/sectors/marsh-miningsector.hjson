@@ -1,0 +1,21 @@
+  localizedName: marsh+
+  description: WIP
+  difficulty: 3
+  alwaysUnlocked: false
+  addStartingItems: true 
+  useAI: true    
+  showSectorLandInfo: true   
+  planet: erekir
+  name: marsh+
+  sector: 8  
+  research: {
+  parent: split+
+    objectives: [
+    {
+      type: SectorComplete
+      preset: split+
+        }
+        unit-repair-tower,
+          ]
+  }
+

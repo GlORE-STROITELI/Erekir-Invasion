@@ -1,0 +1,22 @@
+  localizedName: intersect+
+  description: WIP
+  difficulty: 5
+  alwaysUnlocked: false
+  addStartingItems: true 
+  useAI: true    
+  showSectorLandInfo: true   
+  planet: erekir
+  name: intersect+
+  sector: 16  
+  captureWave: 35
+  research: {
+  parent: Lake+
+    objectives: [
+    {
+      type: SectorComplete
+      preset: Lake
+        }
+        mech-refabricator,
+          ]
+  }
+

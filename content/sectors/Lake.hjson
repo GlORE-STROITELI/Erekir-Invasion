@@ -1,0 +1,22 @@
+  localizedName: Lake+
+  description: WIP
+  difficulty: 5
+  alwaysUnlocked: false
+  addStartingItems: true 
+  useAI: true    
+  showSectorLandInfo: true   
+  planet: erekir
+  name: Lake+   
+  sector: 7  
+  research: {
+  parent: Aegis+
+    objectives: [
+    {
+      type: SectorComplete
+      preset: two2
+        }
+        elude,
+          ]
+  }
+
+

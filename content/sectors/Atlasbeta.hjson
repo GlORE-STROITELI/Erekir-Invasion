@@ -1,0 +1,22 @@
+  localizedName: Atlas+
+  description: WIP
+  difficulty: 6
+  alwaysUnlocked: false
+  addStartingItems: true 
+  useAI: true    
+  showSectorLandInfo: true   
+  planet: erekir
+  name: Atlas+   
+  sector: 2 
+  research: {
+  parent: intersect+
+    objectives: [
+    {
+      type: SectorComplete
+      preset: threepatch1
+        }
+        mech-refabricator,
+          ]
+  }
+
+

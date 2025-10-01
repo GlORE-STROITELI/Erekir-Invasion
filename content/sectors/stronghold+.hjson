@@ -1,0 +1,21 @@
+  localizedName: stronghold+
+  description: WIP
+  difficulty: 9
+  alwaysUnlocked: false
+  addStartingItems: true 
+  useAI: true    
+  showSectorLandInfo: true   
+  planet: erekir
+  name: stronghold+
+  sector: 15  
+  research: {
+  parent: Caldera+
+    objectives: [
+    {
+      type: SectorComplete
+      preset: Caldera+
+        }
+        mech-refabricator,
+          ]
+  }
+

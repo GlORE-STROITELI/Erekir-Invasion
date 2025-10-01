@@ -1,0 +1,21 @@
+  localizedName: peaks+
+  description: WIP
+  difficulty: 3
+  alwaysUnlocked: false
+  addStartingItems: true 
+  useAI: true    
+  showSectorLandInfo: true   
+  planet: erekir
+  name: peaks+  
+  sector: 11  
+  research: {
+  parent: marsh+
+    objectives: [
+    {
+      type: SectorComplete
+      preset: marsh-miningsector
+        }
+        mech-refabricator,
+          ]
+  }
+

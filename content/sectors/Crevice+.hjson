@@ -1,0 +1,22 @@
+  localizedName: Crevice+
+  description: WIP
+  difficulty: 8
+  alwaysUnlocked: false 
+  addStartingItems: true 
+  useAI: true    
+  showSectorLandInfo: true   
+  planet: erekir
+  name: Crevice+   
+  sector: 6  
+  captureWave: 55
+  research: {
+  parent: Caldera+
+    objectives: [
+    {
+      type: SectorComplete
+      preset: Caldera+
+        }
+        cyanogen-synthesizer,
+          ]
+  }
+

@@ -1,0 +1,21 @@
+  localizedName: Basin+
+  description: WIP
+  difficulty: 8
+  alwaysUnlocked: false
+  addStartingItems: true 
+  useAI: true    
+  showSectorLandInfo: true   
+  planet: erekir
+  name: Basin+    
+  sector: 60
+  research: {
+  parent: Atlas+
+    objectives: [
+    {
+      type: SectorComplete
+      preset: Atlasbeta
+        }
+        mech-refabricator,
+          ]
+  }
+

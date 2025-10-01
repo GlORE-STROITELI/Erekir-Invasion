@@ -1,0 +1,22 @@
+  localizedName: Aegis+
+  description: WIP
+  difficulty: 2
+  alwaysUnlocked: false
+  addStartingItems: true 
+  useAI: true    
+  showSectorLandInfo: true   
+  planet: erekir
+  name: Aegis+
+  sector: 70  
+  research: {
+  parent: onset+
+    objectives: [
+    {
+      type: SectorComplete
+      preset: onset+
+        }
+        impact-drill,
+          ]
+  }
+
+

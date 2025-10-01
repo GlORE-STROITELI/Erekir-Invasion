@@ -1,0 +1,23 @@
+  localizedName: Ravine+
+  description: WIP
+  difficulty: 6
+  alwaysUnlocked: false 
+  addStartingItems: true 
+  useAI: true    
+  showSectorLandInfo: true   
+  planet: erekir
+  name: Ravine+  
+  sector: 13  
+  captureWave: 40
+  research: {
+  parent: peaks+
+    objectives: [
+    {
+      type: SectorComplete
+      preset: peaksb
+        }
+        mech-refabricator,
+          ]
+  }
+
+
