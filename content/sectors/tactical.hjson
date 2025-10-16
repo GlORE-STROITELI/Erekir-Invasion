@@ -1,0 +1,22 @@
+  localizedName: TacticalPreparationForErekir.jar
+  description: WIP
+  difficulty: 1
+  alwaysUnlocked: true
+  addStartingItems: true
+  useAI: true    
+  showSectorLandInfo: true   
+  planet: erekir
+  name: TacticalPreparationForErekir.jar
+  sector: 9
+  research: {
+  parent: core-bastion
+    objectives: [
+    {
+      type: SectorComplete
+      preset: onset
+        }
+        tank-fabricator,
+          ]
+  }
+
+
