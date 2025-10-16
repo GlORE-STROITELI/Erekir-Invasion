@@ -11,7 +11,7 @@
   research: {
   parent: core-bastion
     objectives: [
-        onset,
+        tactical,
         tank-fabricator,
           ]
   }
